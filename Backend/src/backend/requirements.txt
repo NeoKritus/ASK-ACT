@@ -1,0 +1,11 @@
+langchain_groq
+langchain_google_genai
+langgraph
+dotenv
+uvicorn
+langchain_core
+typing
+fastapi
+yfinance
+youtube-transcript-api
+langchain_community
